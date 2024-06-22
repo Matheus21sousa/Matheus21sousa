@@ -1,7 +1,7 @@
 ### Olá mundo! Sou o Matheus Sousa!
 
 - 🌱 O agro é a essencia desse GitHub!
-- 🔭 Atualmente estou utilizando a linguagem R para rodar a estatística do meu TCC!
+- 🔭 Usando Python, R e C++ para o desenvolvimento e divulgação cientíica!
 
 <!--
 **Matheus21sousa/Matheus21sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
